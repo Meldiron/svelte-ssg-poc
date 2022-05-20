@@ -1,8 +1,8 @@
 # Goal 🏆
 
-1. `npm run build` to get `.html`files in `build` folder
-2. Fetch data from external API using API key. Key NOT EXPOSED TO CLIENT! (`/api/games`)
-3. Have dynamic route with `[slug].svelte` and get all variations pre-generated (`/games/ft`,`/games/wow`)
+- [x] `npm run build` to get `.html`files in `build` folder
+- [x] Fetch data from external API using API key. Key NOT EXPOSED TO CLIENT! (`/api/games`)
+- [x] Have dynamic route with `[slug].svelte` and get all variations pre-generated (`/games/ft`,`/games/wow`)
 
 # create-svelte
 
